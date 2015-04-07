@@ -1,3 +1,17 @@
+Steps to build this project with biicode:
+
+~~~
+$ git clone
+$ cd to-project-folder
+$ bii init -L
+$ bii test
+~~~
+
+Note that all CMakelists have been removed from the repo, they are actually not required. They could be left in place, it is just for demostration purposes.
+
+
+Original instructions:
+
 A sample project illustrating how to perform unit testing with GoogleTest and CMake
 
 ##Building
